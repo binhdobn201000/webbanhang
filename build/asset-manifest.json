@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopbanhang/static/css/main.b0139f86.chunk.css",
+    "main.js": "/shopbanhang/static/js/main.465b060d.chunk.js",
+    "main.js.map": "/shopbanhang/static/js/main.465b060d.chunk.js.map",
+    "runtime-main.js": "/shopbanhang/static/js/runtime-main.c63dfe35.js",
+    "runtime-main.js.map": "/shopbanhang/static/js/runtime-main.c63dfe35.js.map",
+    "static/js/2.3bfe36a0.chunk.js": "/shopbanhang/static/js/2.3bfe36a0.chunk.js",
+    "static/js/2.3bfe36a0.chunk.js.map": "/shopbanhang/static/js/2.3bfe36a0.chunk.js.map",
+    "index.html": "/shopbanhang/index.html",
+    "static/css/main.b0139f86.chunk.css.map": "/shopbanhang/static/css/main.b0139f86.chunk.css.map",
+    "static/js/2.3bfe36a0.chunk.js.LICENSE.txt": "/shopbanhang/static/js/2.3bfe36a0.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/shopbanhang/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c63dfe35.js",
+    "static/js/2.3bfe36a0.chunk.js",
+    "static/css/main.b0139f86.chunk.css",
+    "static/js/main.465b060d.chunk.js"
+  ]
+}
