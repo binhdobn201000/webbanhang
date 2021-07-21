@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webbanhang/static/css/main.b0756d90.chunk.css",
+    "main.js": "/webbanhang/static/js/main.e5488fe3.chunk.js",
+    "main.js.map": "/webbanhang/static/js/main.e5488fe3.chunk.js.map",
+    "runtime-main.js": "/webbanhang/static/js/runtime-main.bc0b5a7e.js",
+    "runtime-main.js.map": "/webbanhang/static/js/runtime-main.bc0b5a7e.js.map",
+    "static/js/2.3bfe36a0.chunk.js": "/webbanhang/static/js/2.3bfe36a0.chunk.js",
+    "static/js/2.3bfe36a0.chunk.js.map": "/webbanhang/static/js/2.3bfe36a0.chunk.js.map",
+    "index.html": "/webbanhang/index.html",
+    "static/css/main.b0756d90.chunk.css.map": "/webbanhang/static/css/main.b0756d90.chunk.css.map",
+    "static/js/2.3bfe36a0.chunk.js.LICENSE.txt": "/webbanhang/static/js/2.3bfe36a0.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/webbanhang/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc0b5a7e.js",
+    "static/js/2.3bfe36a0.chunk.js",
+    "static/css/main.b0756d90.chunk.css",
+    "static/js/main.e5488fe3.chunk.js"
+  ]
+}
